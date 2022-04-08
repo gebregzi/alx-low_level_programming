@@ -1,11 +1,18 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
 
-
-
-/* betty style doc for function main goes there */
+/**
+ *
+ *  * main - Prints a random number and states whether
+ *
+ *   *        it is positive, negative, or zero.
+ *
+ *    *
+ *
+ *     * Return: Always 0.
+ *
+ *     */
 int main(void)
 
 {
@@ -14,11 +21,11 @@ int main(void)
 		srand(time(0));    
 		n = rand() - RAND_MAX / 2;
 		if(n>0)
-			printf("is postive \n");
+			printf("%d is postive \n",n);
 		else if(n==0)
-			printf("is zero");
+			printf("%d is zero \n",n);
 		else
-			printf("is negative");
+			printf("%d is negative \n",n);
                 
 		return (0);
 }
