@@ -1,11 +1,6 @@
-# file 
-# aurthor : Girma g
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-#prints random nuber
-#prints number
-
 int main(void)
 {	
 
