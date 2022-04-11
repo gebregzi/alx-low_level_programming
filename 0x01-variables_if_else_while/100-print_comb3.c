@@ -2,7 +2,8 @@
 /**
  * main- print all combinatioon of different digit
  *
- *Return: Always 0
+ *
+ *Return: Always 0.
  */
 int main(void)
 {
