@@ -1,3 +1,7 @@
+/*
+ * File: 3-islower.c
+ * Auth: Girma G
+ */
 #include "main.h"
 /*
  *_islower- checks if the character is lower case
