@@ -1,7 +1,7 @@
 #include "main.h"
 #include<stdio.h>
 /**
- * _putchar write character c to std out
+ *main -  write character c to std out
  *
  * Return: 0.
  */
